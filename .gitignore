@@ -30,4 +30,5 @@ output/
 .vscode/
 *.code-workspace
 __pycache__/
+*.github
 
