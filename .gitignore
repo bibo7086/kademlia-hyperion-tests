@@ -30,5 +30,5 @@ output/
 .vscode/
 *.code-workspace
 __pycache__/
-*.github
-
+random_latency_values_original.csv
+random_latency_values.csv
